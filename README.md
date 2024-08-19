@@ -1,15 +1,19 @@
 # EX-01 EXPERIMENT--01-ALP-FOR-8086
+
 ```
 Name : PRADEEP V
 Roll no : 212223240119
 Date of experiment :19.08.2024
 ```
 
+
 ## Aim: 
 To Write and execute ALP on fundamental arithmetic and logical operations
 
+
 ## Components required: 
 8086  emulator 
+
 
 ## Theory
 ```
@@ -23,6 +27,7 @@ manually reset, debug, flag, etc. What is 8086 emulator emu8086 is an emulator o
 with integrated 8086 assembler and tutorials for beginners. Emulator runs programs like the real microprocessor in step-by-step mode. it shows registers, memory, stack, variables and flags.
 
 ```
+
 
  ## Running the Emulator :
  ```
@@ -50,7 +55,9 @@ with integrated 8086 assembler and tutorials for beginners. Emulator runs progra
 ![image](https://user-images.githubusercontent.com/36288975/189273277-113a2a33-4a40-4ff8-95a5-ecd3a1f504fe.png)
 
 
+
 ## Programs for arithmetic  operations
+
 
 ## Addition  of 8 bit ALP 
 ```
@@ -66,6 +73,7 @@ ret
 ## Output  
 ![image](https://github.com/user-attachments/assets/bfde8fea-f186-42cd-a0d9-5d0bcdf73cfe)
 
+
 ## Subtraction   of 8 bit numbers  ALP 
 ```
 org 100h
@@ -78,6 +86,7 @@ ret
 ```
 ## Output  
 ![image](https://github.com/user-attachments/assets/cf88b7f4-1f4a-4d57-affb-cecbbc1579a1)
+
 
 ## Multiplication alp 
 ```
@@ -92,6 +101,7 @@ ret
 ## Output  
 ![image](https://github.com/user-attachments/assets/4ade0491-7b68-493f-9b3e-9c5a01c99e45)
 
+
 ## Division alp 
 ```
 org 100h
@@ -104,6 +114,7 @@ ret
 ```
 ## Output 
 ![image](https://github.com/user-attachments/assets/0a364563-4074-4501-9d58-54edd248e4ce)
+
 
 ## OR Operation
 ```
@@ -118,6 +129,7 @@ ret
 ## Output
 ![image](https://github.com/user-attachments/assets/20c96cc7-0d7e-45b0-85a9-bda9930c116e)
 
+
 ## AND Operation
 ```
 org 100h
@@ -130,6 +142,7 @@ ret
 ```
 ## Output
 ![image](https://github.com/user-attachments/assets/433b3db4-0d2f-4609-9258-c3374a5bf724)
+
 
 ## XOR Operation
 ```
@@ -154,6 +167,14 @@ ret
 ```
 ## Output
 ![image](https://github.com/user-attachments/assets/f48ce567-ebf4-4328-971c-53bcf313be3f)
+
+
+
+
+
+
+
+
 
 
 
