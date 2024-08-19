@@ -1,7 +1,7 @@
-# EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+# EX-01 EXPERIMENT--01-ALP-FOR-8086
+Name : PRADEEP V
+Roll no : 212223240119
+Date of experiment :19.08.2024
 
 
 
@@ -197,7 +197,7 @@ ret
 org 100h
 
 MOV AX,4114H;
-NOT BX;
+NOT AX;
 MOV [8000H],AX;
 
 ret
@@ -205,7 +205,8 @@ ret
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/d633228d-7bf3-4374-ba3b-250845b46679)
+![image](https://github.com/user-attachments/assets/f48ce567-ebf4-4328-971c-53bcf313be3f)
+
 
 
 
