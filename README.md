@@ -2,6 +2,9 @@
 
 
 
+
+
+
 ```
 Name : PRADEEP V
 Roll no : 212223240119
@@ -13,6 +16,10 @@ Date of experiment :19.08.2024
 
 ## Aim: 
 
+
+
+
+
 To Write and execute ALP on fundamental arithmetic and logical operations
 
 
@@ -20,11 +27,15 @@ To Write and execute ALP on fundamental arithmetic and logical operations
 
 ## Components required: 
 
+
+
 8086  emulator 
 
 
 
 ## Theory
+
+
 
 
 ```
@@ -43,6 +54,8 @@ with integrated 8086 assembler and tutorials for beginners. Emulator runs progra
 
 
  ## Running the Emulator :
+
+ 
 
  
  ```
@@ -74,6 +87,8 @@ with integrated 8086 assembler and tutorials for beginners. Emulator runs progra
 
 
 ## Programs for arithmetic  operations
+
+
 
 
 
