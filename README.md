@@ -78,24 +78,141 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ## Programs for arithmetic  operations
 
 ## Addition  of 8 bit ALP 
+```
+org 100h
+
+MOV AX,05H;
+MOV BX,04H;
+ADD AX,BX;
+MOV [1000H],AX;
+
+ret
+
+```
 
 
 
 ## Output  
+![image](https://github.com/user-attachments/assets/bfde8fea-f186-42cd-a0d9-5d0bcdf73cfe)
+
  
 ## Subtraction   of 8 bit numbers  ALP 
+```
+org 100h
+
+MOV AX,06H;
+MOV BX,03H;
+SUB AX,BX;
+MOV [2000H],AX;
+
+ret
+
+```
  
 ## Output  
+![image](https://github.com/user-attachments/assets/cf88b7f4-1f4a-4d57-affb-cecbbc1579a1)
+
+
 ## Multiplication alp 
+```
+org 100h
+
+MOV AX,02H;
+MOV BX,02H;
+MUL BX;
+MOV [3000H],AX;
+
+ret
+
+```
+
  ## Output  
+ ![image](https://github.com/user-attachments/assets/4ade0491-7b68-493f-9b3e-9c5a01c99e45)
 
-
+ 
 ## Division alp 
+```
+org 100h
 
-## Output  
+MOV AX,08H;
+MOV BX,04H;
+DIV BX;
+MOV [4000H],AX;
+
+ret
+```
+
+## Output 
+![image](https://github.com/user-attachments/assets/0a364563-4074-4501-9d58-54edd248e4ce)
+
+## OR Operation
+```
+org 100h
+
+MOV AX,4114H;
+MOV BX,5001H;
+OR AX,BX;
+MOV [5000H],AX;
+
+ret
+
+```
+## Output
+![image](https://github.com/user-attachments/assets/20c96cc7-0d7e-45b0-85a9-bda9930c116e)
+
+## AND Operation
+```
+org 100h
+
+MOV AX,4114H;
+MOV BX,5001H;
+AND AX,BX;
+MOV [6000H],AX;
+
+ret
+```
+
+## Output
+![image](https://github.com/user-attachments/assets/433b3db4-0d2f-4609-9258-c3374a5bf724)
+
+## XOR Operation
+```
+org 100h
+
+MOV AX,4114H;
+MOV BX,5001H;
+XOR AX,BX;
+MOV [7000H],AX;
+
+ret
+
+```
+
+## Output
+![image](https://github.com/user-attachments/assets/0e6656a3-9a9c-46a4-b81c-706f8e566a6b)
+
+
+## NOT Operation
+```
+org 100h
+
+MOV AX,4114H;
+NOT BX;
+MOV [8000H],AX;
+
+ret
+
+```
+
+## Output
+![image](https://github.com/user-attachments/assets/d633228d-7bf3-4374-ba3b-250845b46679)
+
+
+
 
 
 ## Result :
+Thus, ALP for fundamental arithmetic and logical operations are executed successfully
  
 
 
