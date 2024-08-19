@@ -42,7 +42,7 @@ To Write and execute ALP on fundamental arithmetic and logical operations
 
 
 
-```
+
 Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as EMU8086, is an emulator of the program 8086 microprocessor. It is developed with a built-in 8086 assembler. 
 This application is able to run programs on both PC desktops and laptops. 
 This tool is primarily designed to copy or emulate hardware. These include the memory of a program, CPU, RAM, input and output devices, and even the display screen. There are instructions to follow when using this emulator. It can be executed into one of the two ways:
@@ -52,7 +52,7 @@ and titles included. These are “Load”, “Reload”, “Step Back”, “Sin
 manually reset, debug, flag, etc. What is 8086 emulator emu8086 is an emulator of Intel 8086 (AMD compatible) microprocessor
 with integrated 8086 assembler and tutorials for beginners. Emulator runs programs like the real microprocessor in step-by-step mode. it shows registers, memory, stack, variables and flags.
 
-```
+
 
 
 
@@ -64,7 +64,7 @@ with integrated 8086 assembler and tutorials for beginners. Emulator runs progra
  
 
  
- ```
+ 
 
 
 1.	Download and install emu8086 (www.emu8086.com) It is usually installed in C:\EMU8086 subfolder in the “Windows” directory
@@ -79,7 +79,7 @@ with integrated 8086 assembler and tutorials for beginners. Emulator runs progra
 ![image](https://user-images.githubusercontent.com/36288975/189273263-d65baae9-4b8f-4723-afb3-c0ffa4052b04.png)
 
 
-```
+
 
 9.	Click on emulate to start emulation
 10.	
