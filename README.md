@@ -35,34 +35,15 @@ with integrated 8086 assembler and tutorials for beginners. Emulator runs progra
 
 
 ```
-
-
-
-
 9.	Click on emulate to start emulation 
-
-
-
-
 
 ![image](https://user-images.githubusercontent.com/36288975/189273273-9bb36ec1-e2e8-4892-8d35-37707332bfdc.png)
 
-
-
-
-
-
-
-
 10.	If no errors are found click on run the program and check the status of various flags in the flags tab as shown below 
-
 
 ![image](https://user-images.githubusercontent.com/36288975/189273277-113a2a33-4a40-4ff8-95a5-ecd3a1f504fe.png)
 
-
-
 ## Programs for arithmetic  operations
-
 ## Addition  of 8 bit ALP 
 ```
 org 100h
@@ -76,8 +57,7 @@ ret
 ```
 ## Output  
 ![image](https://github.com/user-attachments/assets/bfde8fea-f186-42cd-a0d9-5d0bcdf73cfe)
-
- ## Subtraction   of 8 bit numbers  ALP 
+## Subtraction   of 8 bit numbers  ALP 
 ```
 org 100h
 
@@ -87,7 +67,7 @@ SUB AX,BX;
 MOV [2000H],AX;
 ret
 ```
- ## Output  
+## Output  
 ![image](https://github.com/user-attachments/assets/cf88b7f4-1f4a-4d57-affb-cecbbc1579a1)
 
 ## Multiplication alp 
@@ -102,7 +82,6 @@ ret
 ```
 ## Output  
 ![image](https://github.com/user-attachments/assets/4ade0491-7b68-493f-9b3e-9c5a01c99e45)
-
 ## Division alp 
 ```
 org 100h
@@ -111,12 +90,10 @@ MOV AX,08H;
 MOV BX,04H;
 DIV BX;
 MOV [4000H],AX;
-
 ret
 ```
 ## Output 
 ![image](https://github.com/user-attachments/assets/0a364563-4074-4501-9d58-54edd248e4ce)
-
 ## OR Operation
 ```
 org 100h
@@ -129,7 +106,6 @@ ret
 ```
 ## Output
 ![image](https://github.com/user-attachments/assets/20c96cc7-0d7e-45b0-85a9-bda9930c116e)
-
 ## AND Operation
 ```
 org 100h
@@ -138,12 +114,10 @@ MOV AX,4114H;
 MOV BX,5001H;
 AND AX,BX;
 MOV [6000H],AX;
-
 ret
 ```
 ## Output
 ![image](https://github.com/user-attachments/assets/433b3db4-0d2f-4609-9258-c3374a5bf724)
-
 ## XOR Operation
 ```
 org 100h
@@ -154,10 +128,8 @@ XOR AX,BX;
 MOV [7000H],AX;
 ret
 ```
-
 ## Output
 ![image](https://github.com/user-attachments/assets/0e6656a3-9a9c-46a4-b81c-706f8e566a6b)
-
 ## NOT Operation
 ```
 org 100h
@@ -167,7 +139,6 @@ NOT AX;
 MOV [8000H],AX;
 ret
 ```
-
 ## Output
 ![image](https://github.com/user-attachments/assets/f48ce567-ebf4-4328-971c-53bcf313be3f)
 
