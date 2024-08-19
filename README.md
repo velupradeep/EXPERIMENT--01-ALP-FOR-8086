@@ -1,5 +1,7 @@
 # EX-01 EXPERIMENT--01-ALP-FOR-8086
 
+
+
 ```
 Name : PRADEEP V
 Roll no : 212223240119
@@ -7,15 +9,24 @@ Date of experiment :19.08.2024
 ```
 
 
+
+
 ## Aim: 
+
 To Write and execute ALP on fundamental arithmetic and logical operations
 
 
+
+
 ## Components required: 
+
 8086  emulator 
 
 
+
 ## Theory
+
+
 ```
 Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as EMU8086, is an emulator of the program 8086 microprocessor. It is developed with a built-in 8086 assembler. 
 This application is able to run programs on both PC desktops and laptops. 
@@ -29,7 +40,11 @@ with integrated 8086 assembler and tutorials for beginners. Emulator runs progra
 ```
 
 
+
+
  ## Running the Emulator :
+
+ 
  ```
 1.	Download and install emu8086 (www.emu8086.com) It is usually installed in C:\EMU8086 subfolder in the “Windows” directory
 2.	Run  emu8086 icon (on the desktop or in the c:\EMU8086 folder of window) It has green color 
@@ -45,12 +60,14 @@ with integrated 8086 assembler and tutorials for beginners. Emulator runs progra
 
 ```
 
-9.	Click on emulate to start emulation 
+9.	Click on emulate to start emulation
+10.	
 
 ![image](https://user-images.githubusercontent.com/36288975/189273273-9bb36ec1-e2e8-4892-8d35-37707332bfdc.png)
 
 
-10.	If no errors are found click on run the program and check the status of various flags in the flags tab as shown below 
+10.	If no errors are found click on run the program and check the status of various flags in the flags tab as shown below
+11.	
 
 ![image](https://user-images.githubusercontent.com/36288975/189273277-113a2a33-4a40-4ff8-95a5-ecd3a1f504fe.png)
 
@@ -59,7 +76,9 @@ with integrated 8086 assembler and tutorials for beginners. Emulator runs progra
 ## Programs for arithmetic  operations
 
 
-## Addition  of 8 bit ALP 
+
+## Addition  of 8 bit ALP
+
 ```
 org 100h
 
@@ -75,6 +94,7 @@ ret
 
 
 ## Subtraction   of 8 bit numbers  ALP 
+
 ```
 org 100h
 
@@ -89,6 +109,7 @@ ret
 
 
 ## Multiplication alp 
+
 ```
 org 100h
 
@@ -103,6 +124,7 @@ ret
 
 
 ## Division alp 
+
 ```
 org 100h
 
@@ -117,6 +139,7 @@ ret
 
 
 ## OR Operation
+
 ```
 org 100h
 
@@ -131,6 +154,7 @@ ret
 
 
 ## AND Operation
+
 ```
 org 100h
 
@@ -145,6 +169,7 @@ ret
 
 
 ## XOR Operation
+
 ```
 org 100h
 
@@ -157,6 +182,7 @@ ret
 ## Output
 ![image](https://github.com/user-attachments/assets/0e6656a3-9a9c-46a4-b81c-706f8e566a6b)
 ## NOT Operation
+
 ```
 org 100h
 
@@ -167,6 +193,16 @@ ret
 ```
 ## Output
 ![image](https://github.com/user-attachments/assets/f48ce567-ebf4-4328-971c-53bcf313be3f)
+
+
+
+
+
+
+
+
+
+
 
 
 
