@@ -6,9 +6,13 @@
 
 
 ```
+
+
 Name : PRADEEP V
 Roll no : 212223240119
 Date of experiment :19.08.2024
+
+
 ```
 
 
@@ -58,7 +62,11 @@ with integrated 8086 assembler and tutorials for beginners. Emulator runs progra
  
 
  
+
+ 
  ```
+
+
 1.	Download and install emu8086 (www.emu8086.com) It is usually installed in C:\EMU8086 subfolder in the “Windows” directory
 2.	Run  emu8086 icon (on the desktop or in the c:\EMU8086 folder of window) It has green color 
 3. write the code for the appropriate program for ADDITION,SUBTRACTION, MULTIPLICATION,  DIVISION operations 
@@ -87,6 +95,10 @@ with integrated 8086 assembler and tutorials for beginners. Emulator runs progra
 
 
 ## Programs for arithmetic  operations
+
+
+
+
 
 
 
@@ -123,6 +135,8 @@ ret
 ![image](https://github.com/user-attachments/assets/cf88b7f4-1f4a-4d57-affb-cecbbc1579a1)
 
 
+
+
 ## Multiplication alp 
 
 ```
@@ -136,6 +150,8 @@ ret
 ```
 ## Output  
 ![image](https://github.com/user-attachments/assets/4ade0491-7b68-493f-9b3e-9c5a01c99e45)
+
+
 
 
 ## Division alp 
@@ -168,6 +184,8 @@ ret
 ![image](https://github.com/user-attachments/assets/20c96cc7-0d7e-45b0-85a9-bda9930c116e)
 
 
+
+
 ## AND Operation
 
 ```
@@ -183,6 +201,9 @@ ret
 ![image](https://github.com/user-attachments/assets/433b3db4-0d2f-4609-9258-c3374a5bf724)
 
 
+
+
+
 ## XOR Operation
 
 ```
@@ -196,6 +217,9 @@ ret
 ```
 ## Output
 ![image](https://github.com/user-attachments/assets/0e6656a3-9a9c-46a4-b81c-706f8e566a6b)
+
+
+
 ## NOT Operation
 
 ```
@@ -206,6 +230,15 @@ NOT AX;
 MOV [8000H],AX;
 ret
 ```
+
+
+
+
+
+
+
+
+
 ## Output
 ![image](https://github.com/user-attachments/assets/f48ce567-ebf4-4328-971c-53bcf313be3f)
 
