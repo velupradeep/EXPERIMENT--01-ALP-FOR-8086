@@ -117,7 +117,9 @@ MOV [1000H],AX;
 ret
 ```
 ## Output  
-![image](https://github.com/user-attachments/assets/bfde8fea-f186-42cd-a0d9-5d0bcdf73cfe)
+![WhatsApp Image 2024-08-28 at 23 35 41_e855412c](https://github.com/user-attachments/assets/fc417ad6-4112-4ba5-971c-43107dae08e4)
+
+
 
 
 ## Subtraction   of 8 bit numbers  ALP 
@@ -131,8 +133,10 @@ SUB AX,BX;
 MOV [2000H],AX;
 ret
 ```
-## Output  
-![image](https://github.com/user-attachments/assets/cf88b7f4-1f4a-4d57-affb-cecbbc1579a1)
+## Output 
+![WhatsApp Image 2024-08-28 at 23 33 40_bb1342e5](https://github.com/user-attachments/assets/7831dd2f-b3cc-4c7b-8889-ae839b82489c)
+
+
 
 
 
@@ -149,7 +153,9 @@ MOV [3000H],AX;
 ret
 ```
 ## Output  
-![image](https://github.com/user-attachments/assets/4ade0491-7b68-493f-9b3e-9c5a01c99e45)
+![WhatsApp Image 2024-08-28 at 23 37 28_8e96b3ce](https://github.com/user-attachments/assets/9772a31c-f3ca-4f59-a27a-10a994d5e582)
+
+
 
 
 
@@ -166,7 +172,9 @@ MOV [4000H],AX;
 ret
 ```
 ## Output 
-![image](https://github.com/user-attachments/assets/0a364563-4074-4501-9d58-54edd248e4ce)
+![WhatsApp Image 2024-08-28 at 23 38 42_2069a843](https://github.com/user-attachments/assets/0dcc97f9-e270-4c28-8b39-a41f2885189b)
+
+
 
 
 ## OR Operation
@@ -181,7 +189,8 @@ MOV [5000H],AX;
 ret
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/20c96cc7-0d7e-45b0-85a9-bda9930c116e)
+![WhatsApp Image 2024-08-28 at 23 40 32_6beffc17](https://github.com/user-attachments/assets/1c278a9d-5c0b-4787-98ce-6f51318957f9)
+
 
 
 
@@ -198,7 +207,9 @@ MOV [6000H],AX;
 ret
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/433b3db4-0d2f-4609-9258-c3374a5bf724)
+![WhatsApp Image 2024-08-28 at 23 41 51_9c52c9ea](https://github.com/user-attachments/assets/ee30b55a-0328-46c6-8ebb-9ef30827226e)
+
+
 
 
 
@@ -216,7 +227,9 @@ MOV [7000H],AX;
 ret
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/0e6656a3-9a9c-46a4-b81c-706f8e566a6b)
+![WhatsApp Image 2024-08-28 at 23 50 29_974e2ea4](https://github.com/user-attachments/assets/caceee4a-1d1c-4184-b8db-716c34d7adeb)
+
+
 
 
 
@@ -240,7 +253,9 @@ ret
 
 
 ## Output
-![image](https://github.com/user-attachments/assets/f48ce567-ebf4-4328-971c-53bcf313be3f)
+![WhatsApp Image 2024-08-28 at 23 44 18_83e8c269](https://github.com/user-attachments/assets/7a943875-b7a1-4d9c-961e-e479d102517c)
+
+
 
 
 
