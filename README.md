@@ -10,8 +10,6 @@
 
 Name : PRADEEP V
 Roll no : 212223240119
-Date of experiment :19.08.2024
-
 
 ```
 
